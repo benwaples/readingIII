@@ -4,7 +4,27 @@
 
 
 ## Clean Code
+* code is really the language in which we ultimately express the requirements.
 
+quote from the writer of `C++` :
+> I like my code to be elegant and efficient. The
+logic should be straightforward to make it hard
+for bugs to hide, the dependencies minimal to
+ease maintenance, error handling complete
+according to an articulated strategy, and performance close to optimal so as not to tempt
+people to make the code messy with unprincipled optimizations. Clean code does one thing
+well.
+
+This chapter also talks about how clean code is art. I agree with that. I goes along with the book Linchpin, art comes in many forms.
+
+another really good quote is from Michael Feathers: 
+
+> Clean code always looks like it was written by someone who cares.
+
+I like that
+
+### in conclusion
+This chapter is a great preface for the book as a whole. They mention how they will bring up what they think is good code, however just because they say so doesn't mean it is. I do think it is a good starting point though.
 
 ## Red, Green, Refactor
 * Red — think about what you want to develop
