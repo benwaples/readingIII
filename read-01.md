@@ -1,6 +1,8 @@
 # Summary Of Engineering Topics
 
 ## Quantity Trumps Quality
+Read the whole book, but if you can't know this: the best practice and route to perfection is through repetition. So keep building to keep learning.
+
 
 
 ## Clean Code
