@@ -1,5 +1,19 @@
 # Summary for Class 02 Reading 
 
+## Clean Code Ch.2 
+Reading this chapter on naming is really helpful, mostly because now I can come up with names quicker instead of thinking about what is important with naming my function/ variables/ classes.
+
+1. distinguish names - `accountInfo` is just `account`, so make sure that if you name something be specific so its distinguishable.
+1. Use pronounceable names - I feel like this is obvious but I don't do it all the time. I too say things how they are written (sort of as a joke and can get me in trouble), so making things pronounceable shouldn't be too hard.
+1. Searchable names - if I am looking for an array of dogs, name is dogs and not animals
+1. Avoid Mental mapping - instead of calling a variable x, call it dog.
+1. classes and objects should be nouns or have nouns in them.
+1. likewise, methods should be verbs or have a verb in the name.
+1. don't make jokes as names, it can separate the reader from the writer if the reader doesn't get it.
+1. stick to one word per concept and be consistent. For example, dont say fetch, get, and retrieve all in the same file.
+1. names things in accordance to the problem and solution domain.
+1. Don't be afraid to rename things. Just do rename if it can be better.
+
 ## [Array Methods](https://dev.to/frugencefidel/10-javascript-array-methods-you-should-know-4lk3)
 
 ``` js
