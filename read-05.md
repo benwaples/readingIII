@@ -1,6 +1,8 @@
 # Summary of reading for Class-05
 
 ## [Web scraping](https://www.scrapingbee.com/blog/web-scraping-javascript/)
+5 different ways to go through a website and grab DOM elements and then pull the data off those DOM elements. The plain JSDOM version makes most sense, however I see how the others can be more powerful. Cheerio uses jquery.
+
 
 ## [querySelector](https://developer.mozilla.org/en-US/docs/Web/API/Document/querySelector)
 js that selects a specified element from the DOM. 
