@@ -22,3 +22,18 @@ There are loads of different status codes, these are just a code that communicat
 
 ### Headers
 Must be sent with each request/ response. General headers can be sent with both requests and responses, other headers are special to either a request or response.
+
+## [DNS](https://howdns.works/)
+Sicc comic on DNS
+### Domain Name System
+System that has humans remembering names instead of ip addresses to request websites. Computers use the ip, humans use the domain name.
+
+When a domain name is requested, the browser first searches its cache for the domain, then the OS does that, then they hit a resolver.
+
+When the resolver (ISP - internet service provider) can't find the domain, then it hits the root server. The root server knows where the .COM top level domain (TLD) server.
+
+Root servers sit at the top of the DNS, there are 12 scattered across the globe
+
+.COM is the biggest DNS (started in 1985 and run by ICANN), however there are loads others.
+
+Once the resolver is given the IP address from DNS, it goes home and gives the browser that information to then communicate with and get files from. Like HTML files
