@@ -36,4 +36,6 @@ Root servers sit at the top of the DNS, there are 12 scattered across the globe
 
 .COM is the biggest DNS (started in 1985 and run by ICANN), however there are loads others.
 
-Once the resolver is given the IP address from DNS, it goes home and gives the browser that information to then communicate with and get files from. Like HTML files
+Once the resolver is given the IP address from DNS, it goes home and gives the browser that information to then communicate with and get files from. Like HTML files.
+
+## [Rest API](https://www.youtube.com/watch?v=Q-BpqyOT3a8&ab_channel=TraversyMedia)
