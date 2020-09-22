@@ -36,11 +36,20 @@ describe('silly test', () => {
 })
 ```
 
+## [using express middleware](https://expressjs.com/en/guide/using-middleware.html)
+Express is an app of middleware function calls. It gets access to the req and res objects and ends the request-response cycle.
 
-## [using express middleware]()
+Express apps can use the following middleware:
+* application 
+* router-level 
+* error-handling
+* built-in
+* third-party
 
 
-## [express middleware]()
+## [express middleware](https://www.tutorialspoint.com/expressjs/expressjs_middleware.htm)
+there are loads of different middleware to be used in an express app. Each does a different task, such as body-parser that gets the body off of a request
 
 
-## [express middleware list]()
+## [express middleware list](https://expressjs.com/en/resources/middleware.html)
+go here to see all the middleware you can use with an express app. 
